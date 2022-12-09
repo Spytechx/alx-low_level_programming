@@ -2,6 +2,8 @@
 /*
  * main - Prints some lines of code without using printf but using put
  *
+ *Description: 'using puts instead of printf'
+ *
  * Return : Always print 0 as answer
  */
 int main(void)
