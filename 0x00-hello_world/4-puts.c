@@ -4,7 +4,7 @@
  *
  *Description: 'using puts instead of printf'
  *
- * Return : Always print 0 as answer
+ * Return: 0
  */
 int main(void)
 {
