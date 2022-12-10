@@ -18,15 +18,15 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 	{
-		printf("%d is positive\n", n);
+		printf("Last digit of %d is %d and is positive >0\n", n);
 	}
 	if (n == 0)
 	{
-		printf("%d is zero\n", n);
+		printf("Last digit of %d is %d is zero 0\n", n);
 	}
 	if (n < 0)
 	{
-		printf("%d is negative\n", n);
+		printf("Last digit of %d is %d and is negative <0\n", n);
 	return (0);
 	}
 }
