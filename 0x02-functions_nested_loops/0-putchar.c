@@ -10,17 +10,14 @@
 
 int main(void)
 {
-	int h;
-	char output[8] = "putchar";
-
-	for (h = 0; h < 8; h++)
-	{
-		_putchar(output[h]);
-
-		if (h == 7)
-		{
-			_putchar('\n');
-		}
-	}
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
