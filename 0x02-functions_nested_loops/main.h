@@ -8,6 +8,7 @@
  * Author: Daniel Nwankwo (Ghost X)
  */
 
-int _putchar(char h)
+int _putchar(char h);
+void print_alphabet(void);
 
 #endif
