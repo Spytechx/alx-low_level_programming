@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
  * main - Start print putchar
  * compiled by spytechx
- * Return: 0 (success)
+ * Return: 0
  */
 
 int main(void)
