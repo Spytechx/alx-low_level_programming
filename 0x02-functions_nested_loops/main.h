@@ -6,6 +6,9 @@
  *
  * Description: The Program description
  *
+ *void print_alphabet_x10(void) prints 10 times the alphabet in lowercase
+ *
+ *
  * File : main.h
  *
  * Author: Daniel Nwankwo (Ghost X)
@@ -15,5 +18,6 @@
 
 int _putchar(char c);
 void print_alphabet(void);
+void print_alphabet_x10(void);
 
 #endif
