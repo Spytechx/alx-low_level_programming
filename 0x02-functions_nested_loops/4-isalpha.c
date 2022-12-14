@@ -13,7 +13,6 @@ int _isalpha(int take)
 	{
 		return (1);
 	}
-	
+
 	return (0);
-}
-		
+}	
