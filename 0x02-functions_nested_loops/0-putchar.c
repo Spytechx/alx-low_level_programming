@@ -2,8 +2,10 @@
 
 /**
  * main - Start print putchar
+ *
  * compiled by spytechx
- * Return: 0
+ *
+ * Return: 0 (success)
  */
 
 int main(void);

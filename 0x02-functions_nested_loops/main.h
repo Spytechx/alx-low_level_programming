@@ -1,5 +1,13 @@
 #ifndef MAIN_H
 #define MAIN_H
-int _putchar(char)
+
+/**
+ * _putchar - prints its input solely using standard i/o library
+ *
+ *
+ * Author: Daniel Nwankwo (Ghost X)
+ */
+
+int _putchar(char h)
 
 #endif
