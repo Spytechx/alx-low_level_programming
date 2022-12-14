@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - Start print putchar
  * compiled by spytechx
