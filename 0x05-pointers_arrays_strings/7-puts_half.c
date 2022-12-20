@@ -2,7 +2,7 @@
 
 /**
  * puts_half - prints the half of a string
- * @str: Recieving sring to check
+ * @str: recieving string to check
  * Return: null
  */
 
