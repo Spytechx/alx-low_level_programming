@@ -22,4 +22,3 @@ void puts_half(char *str)
 		_putchar(str[rec]);
 	_putchar('\0');
 }
-				}
