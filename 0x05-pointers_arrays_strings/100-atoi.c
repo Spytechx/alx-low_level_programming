@@ -32,7 +32,7 @@ int _atoi(char *s)
 			break;
 		}
 
-		c++;
+		x++;
 	}
 
 	in *= min;
