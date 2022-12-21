@@ -3,7 +3,7 @@
 /**
  * puts_half - prints the half of a string
  * @str: recieving string to check
- * Return: null
+ * Return: 0
  */
 
 void puts_half(char *str)
@@ -20,5 +20,5 @@ void puts_half(char *str)
 
 	for (string = x; str[string] != '\0'; string++)
 		_putchar(str[string]);
-	_putchar('\0');
+	_putchar('\n');
 }
